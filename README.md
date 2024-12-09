@@ -32,7 +32,6 @@
 <div align="center">
   <a href="https://github.com/phongan1x5"><img alt="phongan1x5" src="https://github.com/phongan1x5.png" width="60px" height="auto"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/kru01"><img alt="kru01" src="https://github.com/kru01.png" width="60px" height="auto"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/TGHuybu"><img alt="TGHuybu" src="https://github.com/TGHuybu.png" width="60px" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
